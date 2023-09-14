@@ -18,7 +18,7 @@
         <label for="" class="block">Message:</label>
         <textarea></textarea>
     </div>
-    <button class=" bg-red-600 px-3">Send</button>
+    <button class=" bg-red-600 px-6 py-2 text-white rounded-lg">Send</button>
 </div>
 
 
